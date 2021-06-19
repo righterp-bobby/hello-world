@@ -1,0 +1,4 @@
+SERVER=RITSBOBBY\SQL2016
+USER=SA
+DB=rtAgility
+PW=....YP[Z
