@@ -2,3 +2,5 @@ SERVER=RIGHTSRV,56324\SQL2016
 USER=SA
 DB=rtAgility
 PW=....YP[Z
+
+test1
